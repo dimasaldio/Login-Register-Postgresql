@@ -1,6 +1,8 @@
 # Login-Register-Sequelize
 API for login register using email and google account
 
+passport jwt, sequelize, bcrypt, express
+
 POST : /auth/register
 -name
 -username
