@@ -1,4 +1,4 @@
-# Login-Register-Sequelize
+# Login-Register-Postgre
 API for login register using email and google account
 
 passport jwt, sequelize, bcrypt, express
