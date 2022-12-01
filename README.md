@@ -1,28 +1,28 @@
 # Login-Register-Postgre
-API for login register using email and google account
 
-passport jwt, sequelize, bcrypt, express
+Hello👋 i make API services for Login Register using SQL, in this API you can:
 
-POST : /auth/register
--name
--username
--email
--password
+👌🏼login register using email
+👌🏼login register using googleAuth
+
+in this API i use:
+
+💪🏼node js
+💪🏼express js
+💪🏼passport
+💪🏼Oauth google
+💪🏼jwt
+💪🏼bcrypt
+💪🏼sequelize
+💪🏼postgreSQL
 
 
+POST : /user/register -name -username -email -password
 
-POST : /auth/login
--email_username
--password
-
-
-
+POST : /user/login -username -password
 
 GET : /auth/google
 link for redirect to google authentication
-
-
-
 
 GET : /auth/google/callback
 link for redirect to home
